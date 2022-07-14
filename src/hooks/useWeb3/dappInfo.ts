@@ -1,7 +1,7 @@
 // Get your infura api key by creating a free account at https://infura.io/
 export const INFURA_PROJECT_ID = "YOUR_INFURA_PROJECT_ID";
 // Your Dapp's name
-export const APP_NAME = "Example Dapp";
+export const APP_NAME = "Wallet-Connector Example";
 // An image, hosted by you, that represents your dapp
 export const APP_LOGO_URL =
   "https://c-spider.github.io/wallet-connect/assets/logo.png";

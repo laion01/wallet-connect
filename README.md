@@ -1,4 +1,4 @@
-# Example Dapp
+# Wallet-Connector Example
 ## Example of a Web3 Multi-Provider Dapp
 
 Demo: https://david-connect-wallet.netlify.app/

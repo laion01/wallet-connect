@@ -53,7 +53,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Example Dapp</h1>
+      <h1>Wallet-Connector Example</h1>
       <img
         src={connected ? connectedLogo : logo}
         className="App-logo"
